@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<configuration>
+    <feature automatic="selected" name="Graph Product line"/>
+    <feature automatic="selected" name="Graph Type"/>
+    <feature automatic="selected" name="Type 1"/>
+    <feature manual="selected" name="Directed"/>
+    <feature automatic="unselected" name="Undirected"/>
+    <feature automatic="selected" name="Type 2"/>
+    <feature manual="selected" name="Weighted"/>
+    <feature automatic="unselected" name="Unweighted"/>
+</configuration>
